@@ -2,3 +2,4 @@ GIT‚Ì—ûK‚ğn‚ß‚Ü‚·
 
 git add 
 git commit ‚ğg‚¢‚Ü‚·B
+git status
