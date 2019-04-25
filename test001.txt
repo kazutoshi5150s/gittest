@@ -3,3 +3,5 @@ GITの練習を始めます
 git add 
 git commit を使います。
 git status
+
+さらに追加しました。
